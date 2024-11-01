@@ -1,1 +1,24 @@
-body{background-color: aliceblue;}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fab1e2;
+    margin: 0;
+    padding: 20px;
+}
+header {
+    background-color: #e005aa;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+h2 {
+    color: #767c75;
+}
+.recipe {
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    margin: 20px 0;
+    padding: 15px;
+  
+}
+img {margin-right: 800px;float: right;}
